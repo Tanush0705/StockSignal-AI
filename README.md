@@ -9,9 +9,9 @@ A real-time sentiment analysis system that fetches live Reddit data to help inve
 
 ## 🌐 Live Demo
 
-**[https://sentimentx-pro.onrender.com](https://sentimentx-pro.onrender.com)**
+**[https://stocksignal-ai.onrender.com/](https://stocksignal-ai.onrender.com/)**
 
-![Dashboard Preview](outputs/sentiment_distribution.png)
+![Dashboard Preview](outputs/dashboard.png)
 
 ---
 
@@ -82,7 +82,7 @@ Reddit-Stock-Sentiment-Analyzer/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/NavnoorBawa/Reddit-Stock-Sentiment-Analyzer.git
+git clone https://github.com/Tanush0705/StockSignal-AI
 cd Reddit-Stock-Sentiment-Analyzer
 ```
 
@@ -101,13 +101,13 @@ python -c "import nltk; nltk.download('punkt')"
 ## 🚀 How to Run
 
 ### Option 1: Visit Live Demo (Recommended)
-**[https://sentimentx-pro.onrender.com](https://sentimentx-pro.onrender.com)**
+**[https://stocksignal-ai.onrender.com/](https://stocksignal-ai.onrender.com/)**
 
 ### Option 2: Run Locally
 ```bash
 # Clone and install
-git clone https://github.com/NavnoorBawa/Reddit-Stock-Sentiment-Analyzer.git
-cd Reddit-Stock-Sentiment-Analyzer
+git clone https://github.com/Tanush0705/StockSignal-AI
+cd StockSignal AI
 pip install -r requirements.txt
 
 # Run Flask app
@@ -251,8 +251,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by Saksham, Navnoor & Pulkit
+  Made with ❤️ by Tanush, Saiyam, Tashu
 </p>
 <p align="center">
-  <a href="https://sentimentx-pro.onrender.com">🌐 Live Demo</a>
+  <a href="https://stocksignal-ai.onrender.com/">🌐 Live Demo</a>
 </p>
