@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SentimentX Pro | Stock Sentiment Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+</head>
+<body>
+    <!-- Animated Background -->
+    <div class="bg-animation">
+        <div class="bg-gradient"></div>
+        <div class="particles" id="particles"></div>
+    </div>
+
+    <!-- Main Container -->
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">⚡</span>
+                <div class="logo-text">
+                    <h1>SentimentX</h1>
+                    <span class="pro-badge">PRO EDITION</span>
+                </div>
+            </div>
+            <nav class="nav-links">
+                <a href="#" class="nav-link active">Dashboard</a>
+                <a href="#about" class="nav-link">About</a>
+                <a href="#team" class="nav-link">Team</a>
+            </nav>
+        </header>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <h2 class="hero-title">
+                <span class="gradient-text">Stock Sentiment</span> Analyzer
+            </h2>
+            <p class="hero-subtitle">Real-time Reddit sentiment analysis for smart investment decisions</p>
+        </section>
+
+        <!-- Search Section -->
+        <section class="search-section">
+            <div class="search-container">
+                <div class="input-group">
+                    <label>ENTER COMPANY NAME OR TICKER</label>
+                    <input type="text" id="companyInput" placeholder="e.g., Tesla, AAPL, Google, Microsoft..." autocomplete="off">
+                </div>
+                <button id="analyzeBtn" class="analyze-btn">
+                    <span class="btn-icon">⚡</span>
+                    <span class="btn-text">ANALYZE SENTIMENT</span>
+                </button>
+            </div>
+
+            <!-- Quick Select -->
+            <div class="quick-select">
+                <span class="quick-label">Popular:</span>
+                <div class="quick-buttons">
+                    <button class="quick-btn" data-company="Tesla">Tesla</button>
+                    <button class="quick-btn" data-company="Apple">Apple</button>
+                    <button class="quick-btn" data-company="NVIDIA">NVIDIA</button>
+                    <button class="quick-btn" data-company="Google">Google</button>
+                    <button class="quick-btn" data-company="Microsoft">Microsoft</button>
+                    <button class="quick-btn" data-company="Amazon">Amazon</button>
+                    <button class="quick-btn" data-company="Meta">Meta</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Loading State -->
+        <div id="loadingState" class="loading-state hidden">
+            <div class="loader">
+                <div class="loader-ring"></div>
+                <div class="loader-ring"></div>
+                <div class="loader-ring"></div>
+            </div>
+            <p class="loading-text" id="loadingText">Fetching Reddit posts...</p>
+        </div>
+
+        <!-- Results Section -->
+        <section id="resultsSection" class="results-section hidden">
+            <!-- Recommendation Card -->
+            <div class="recommendation-card" id="recommendationCard">
+                <div class="rec-header">
+                    <h3>Investment Recommendation</h3>
+                    <span class="company-badge" id="companyBadge">TESLA</span>
+                </div>
+                <div class="rec-body">
+                    <div class="rec-action" id="recAction">STRONG BUY</div>
+                    <p class="rec-description" id="recDescription">Very positive sentiment detected across Reddit.</p>
+                    <div class="confidence-bar">
+                        <div class="confidence-fill" id="confidenceFill"></div>
+                    </div>
+                    <span class="confidence-text" id="confidenceText">Confidence: 87%</span>
+                </div>
+            </div>
+
+            <!-- Metrics Grid -->
+            <div class="metrics-grid">
+                <div class="metric-card">
+                    <div class="metric-icon positive">📈</div>
+                    <div class="metric-value" id="positiveValue">0%</div>
+                    <div class="metric-label">Positive</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-icon neutral">📊</div>
+                    <div class="metric-value" id="neutralValue">0%</div>
+                    <div class="metric-label">Neutral</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-icon negative">📉</div>
+                    <div class="metric-value" id="negativeValue">0%</div>
+                    <div class="metric-label">Negative</div>
+                </div>
+                <div class="metric-card">
+                    <div class="metric-icon score">🎯</div>
+                    <div class="metric-value" id="avgSentiment">0.00</div>
+                    <div class="metric-label">Avg Score</div>
+                </div>
+            </div>
+
+            <!-- Sentiment Distribution -->
+            <div class="chart-card">
+                <h3>Sentiment Distribution</h3>
+                <div class="sentiment-bars">
+                    <div class="bar-row">
+                        <span class="bar-label">Positive</span>
+                        <div class="bar-container">
+                            <div class="bar positive-bar" id="positiveBar"></div>
+                        </div>
+                        <span class="bar-value" id="posBarValue">0%</span>
+                    </div>
+                    <div class="bar-row">
+                        <span class="bar-label">Neutral</span>
+                        <div class="bar-container">
+                            <div class="bar neutral-bar" id="neutralBar"></div>
+                        </div>
+                        <span class="bar-value" id="neutBarValue">0%</span>
+                    </div>
+                    <div class="bar-row">
+                        <span class="bar-label">Negative</span>
+                        <div class="bar-container">
+                            <div class="bar negative-bar" id="negativeBar"></div>
+                        </div>
+                        <span class="bar-value" id="negBarValue">0%</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Posts Table -->
+            <div class="posts-card">
+                <div class="posts-header">
+                    <h3>📝 Analyzed Posts</h3>
+                    <span class="posts-count" id="postsCount">0 posts</span>
+                </div>
+                <div class="posts-table-container">
+                    <table class="posts-table">
+                        <thead>
+                            <tr>
+                                <th>Post Title</th>
+                                <th>Score</th>
+                                <th>Comments</th>
+                                <th>Sentiment</th>
+                                <th>Link</th>
+                            </tr>
+                        </thead>
+                        <tbody id="postsBody">
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Data Notice -->
+            <div class="data-notice" id="dataNotice">
+                <span class="notice-icon">ℹ️</span>
+                <span id="noticeText">Live data from Reddit</span>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about-section">
+            <h2>About This Project</h2>
+            <p>SentimentX Pro analyzes real-time Reddit discussions to gauge market sentiment for any publicly traded company. Our AI-powered system processes posts from r/wallstreetbets, r/stocks, and r/investing to provide actionable investment insights.</p>
+            <div class="features-grid">
+                <div class="feature">
+                    <span class="feature-icon">🤖</span>
+                    <h4>AI Analysis</h4>
+                    <p>Advanced NLP for accurate sentiment detection</p>
+                </div>
+                <div class="feature">
+                    <span class="feature-icon">⚡</span>
+                    <h4>Real-time</h4>
+                    <p>Live data from Reddit communities</p>
+                </div>
+                <div class="feature">
+                    <span class="feature-icon">📊</span>
+                    <h4>Insights</h4>
+                    <p>Clear buy/sell recommendations</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Team Section -->
+        <section id="team" class="team-section">
+            <h2>👥 Development Team</h2>
+            <div class="team-grid">
+                <div class="team-card">
+                    <div class="team-avatar">SV</div>
+                    <h4>Saksham Verma</h4>
+                    <p class="team-id">102303892 | 3C63</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">NB</div>
+                    <h4>Navnoor Bawa</h4>
+                    <p class="team-id">102317164 | 3Q16</p>
+                </div>
+                <div class="team-card">
+                    <div class="team-avatar">PG</div>
+                    <h4>Pulkit Garg</h4>
+                    <p class="team-id">102317214 | 3Q16</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>© 2025 SentimentX Pro | Real-Time Data Analysis Project</p>
+            <p class="disclaimer">⚠️ This tool is for educational purposes only. Not financial advice.</p>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

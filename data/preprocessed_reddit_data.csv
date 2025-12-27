@@ -1,0 +1,901 @@
+text,sentiment,char_count,word_count,text_clean,text_processed
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+Source please?,Neutral,14,2,source please,source please
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+Source please?,Neutral,14,2,source please,source please
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+Source please?,Neutral,14,2,source please,source please
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Source please?,Neutral,14,2,source please,source please
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Source please?,Neutral,14,2,source please,source please
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+Source please?,Neutral,14,2,source please,source please
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+Source please?,Neutral,14,2,source please,source please
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+Source please?,Neutral,14,2,source please,source please
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+Source please?,Neutral,14,2,source please,source please
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Source please?,Neutral,14,2,source please,source please
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Source please?,Neutral,14,2,source please,source please
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+Wow! Mind-blowing content right here!,Positive,37,5,wow mind blowing content right here,wow mind blowing content right here
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+Source please?,Neutral,14,2,source please,source please
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+Source please?,Neutral,14,2,source please,source please
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+I don't have a strong opinion on this.,Neutral,38,8,i don t have a strong opinion on this,don t strong opinion
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+No comment really. Just browsing.,Neutral,33,5,no comment really just browsing,no comment really browsing
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+Source please?,Neutral,14,2,source please,source please
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Seems average to me.,Neutral,20,4,seems average to me,seems average me
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Source please?,Neutral,14,2,source please,source please
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Source please?,Neutral,14,2,source please,source please
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+Source please?,Neutral,14,2,source please,source please
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+So proud of this community! You guys rock!,Positive,42,8,so proud of this community you guys rock,proud community guys rock
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Source please?,Neutral,14,2,source please,source please
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+This is the best purchase I've ever made!,Positive,41,8,this is the best purchase i ve ever made,best purchase ve ever made
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+It's okay I guess. Nothing special.,Neutral,35,6,it s okay i guess nothing special,s okay guess nothing special
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Source please?,Neutral,14,2,source please,source please
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+Absolutely disgusting behavior. Unacceptable!,Negative,45,4,absolutely disgusting behavior unacceptable,absolutely disgusting behavior unacceptable
+This is absolutely amazing! Best thing I've seen today!,Positive,55,9,this is absolutely amazing best thing i ve seen today,absolutely amazing best thing ve seen today
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+Just checking in. How's everyone?,Neutral,33,5,just checking in how s everyone,checking how s everyone
+Never buying from them again. Awful service.,Negative,44,7,never buying from them again awful service,never buying them again awful service
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Whatever. Don't really care either way.,Neutral,39,6,whatever don t really care either way,whatever don t really care either way
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Does anyone know what time it starts?,Neutral,37,7,does anyone know what time it starts,anyone know time starts
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Love the quality! Absolutely worth it!,Positive,38,6,love the quality absolutely worth it,love quality absolutely worth
+Incredible work! You're so talented!,Positive,36,5,incredible work you re so talented,incredible work re talented
+This is boring. Moving on.,Neutral,26,5,this is boring moving on,boring moving
+Such a beautiful gesture! Faith in humanity restored!,Positive,53,8,such a beautiful gesture faith in humanity restored,such beautiful gesture faith humanity restored
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+Pretty good actually! Pleasantly surprised!,Positive,43,5,pretty good actually pleasantly surprised,pretty good actually pleasantly surprised
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Thanks for the help! Really appreciate it!,Positive,42,7,thanks for the help really appreciate it,thanks help really appreciate
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Need more information to decide.,Neutral,32,5,need more information to decide,need more information decide
+Completely useless. Total waste.,Negative,32,4,completely useless total waste,completely useless total waste
+Pathetic attempt. Do better next time.,Negative,38,6,pathetic attempt do better next time,pathetic attempt better next time
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Rude customer service. Terrible experience.,Negative,43,5,rude customer service terrible experience,rude customer service terrible experience
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+The weather is nice today.,Neutral,26,5,the weather is nice today,weather nice today
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Just saw this in the news today.,Neutral,32,7,just saw this in the news today,saw news today
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+"Ugh, not this again. So tired of this.",Negative,38,8,ugh not this again so tired of this,ugh again tired
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+Commenting for later reference.,Neutral,31,4,commenting for later reference,commenting later reference
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Waste of money. Very poor quality.,Negative,34,6,waste of money very poor quality,waste money poor quality
+This is exactly what I was looking for! Perfect!,Positive,48,9,this is exactly what i was looking for perfect,exactly looking perfect
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+Fantastic job! Keep up the excellent work!,Positive,42,7,fantastic job keep up the excellent work,fantastic job keep up excellent work
+Disappointing results. Expected more.,Negative,37,4,disappointing results expected more,disappointing results expected more
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+"Meh. Could be better, could be worse.",Neutral,37,7,meh could be better could be worse,meh better worse
+How is this even allowed? Disgraceful!,Negative,38,6,how is this even allowed disgraceful,how even allowed disgraceful
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+Absolutely phenomenal! 10/10 would recommend!,Positive,45,5,absolutely phenomenal 10 10 would recommend,absolutely phenomenal 10 10 recommend
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+Broken on arrival. Extremely frustrating.,Negative,41,5,broken on arrival extremely frustrating,broken arrival extremely frustrating
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Source please?,Neutral,14,2,source please,source please
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+TL;DR anyone?,Neutral,13,2,tl dr anyone,tl dr anyone
+Best community ever! Love you all!,Positive,34,6,best community ever love you all,best community ever love
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+So disappointed. Expected much better.,Negative,38,5,so disappointed expected much better,disappointed expected much better
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+This made my day! So happy right now!,Positive,37,8,this made my day so happy right now,made day happy right now
+Complete garbage. Downvoted.,Negative,28,3,complete garbage downvoted,complete garbage downvoted
+Worst decision ever. Complete waste of time.,Negative,44,7,worst decision ever complete waste of time,worst decision ever complete waste time
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+Brilliant! Exceeded all my expectations!,Positive,40,5,brilliant exceeded all my expectations,brilliant exceeded expectations
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+What do you guys think about this?,Neutral,34,7,what do you guys think about this,guys think about
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+I'm neutral on this topic.,Neutral,26,5,i m neutral on this topic,m neutral topic
+Looking for recommendations.,Neutral,28,3,looking for recommendations,looking recommendations
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+Lost all respect. Completely unacceptable.,Negative,42,5,lost all respect completely unacceptable,lost respect completely unacceptable
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Terrible experience. Would not recommend.,Negative,41,5,terrible experience would not recommend,terrible experience recommend
+Excellent service! Will definitely use again!,Positive,45,6,excellent service will definitely use again,excellent service definitely use again
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+"Just a regular comment, nothing special.",Neutral,40,6,just a regular comment nothing special,regular comment nothing special
+Scam! Don't fall for this garbage!,Negative,34,6,scam don t fall for this garbage,scam don t fall garbage
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+This sucks. Total failure.,Negative,26,4,this sucks total failure,sucks total failure
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Has anyone tried this before?,Neutral,29,5,has anyone tried this before,anyone tried before
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+Can someone explain this? I'm confused.,Neutral,39,6,can someone explain this i m confused,someone explain m confused
+This should be illegal. Absolutely horrible.,Negative,44,6,this should be illegal absolutely horrible,should illegal absolutely horrible
+So grateful for this! Amazing quality!,Positive,38,6,so grateful for this amazing quality,grateful amazing quality
+This changed my life for the better!,Positive,36,7,this changed my life for the better,changed life better
+This restored my faith in humanity!,Positive,35,6,this restored my faith in humanity,restored faith humanity
+You deserve all the success! Keep going!,Positive,40,7,you deserve all the success keep going,deserve success keep going
+RemindMe! 24 hours,Neutral,18,3,remindme 24 hours,remindme 24 hours
+I regret this purchase so much.,Negative,31,6,i regret this purchase so much,regret purchase much
+Great value for the price! Highly recommend!,Positive,44,7,great value for the price highly recommend,great value price highly recommend
+Horrible quality. Do not buy this.,Negative,34,6,horrible quality do not buy this,horrible quality buy
+The quality is absolutely terrible.,Negative,35,5,the quality is absolutely terrible,quality absolutely terrible
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+False advertising. Not as described at all.,Negative,43,7,false advertising not as described at all,false advertising described
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+I love this so much! Thank you for sharing!,Positive,43,9,i love this so much thank you for sharing,love much thank sharing
+This is pure gold! Saving this forever!,Positive,39,7,this is pure gold saving this forever,pure gold saving forever
+I hate when this happens. So frustrating!,Negative,41,7,i hate when this happens so frustrating,hate when happens frustrating
+This ruined my whole day. Thanks for nothing.,Negative,45,8,this ruined my whole day thanks for nothing,ruined whole day thanks nothing
+Haha that's hilarious! Made me smile!,Positive,37,6,haha that s hilarious made me smile,haha s hilarious made me smile
+"Not bad, not great either.",Neutral,26,5,not bad not great either,bad great either
+This is the worst thing I've ever seen.,Negative,39,8,this is the worst thing i ve ever seen,worst thing ve ever seen
+First time seeing this. Interesting.,Neutral,36,5,first time seeing this interesting,first time seeing interesting
+Super excited about this! Can't wait!,Positive,37,6,super excited about this can t wait,super excited about t wait
+Interesting perspective. I'll think about it.,Neutral,45,6,interesting perspective i ll think about it,interesting perspective ll think about
