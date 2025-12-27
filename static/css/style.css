@@ -1,6 +1,6 @@
-/* 
-   StockSignal AI - Stock Trading Dark Theme
-   Inspired by Bloomberg, Robinhood, TradingView
+/*
+StockSignal AI - Modern Financial Interface
+Inspired by Premium Trading Platforms
 */
 
 * {
@@ -10,21 +10,21 @@
 }
 
 :root {
-    --bg-primary: #0d1117;
-    --bg-secondary: #161b22;
-    --bg-card: #1c2128;
-    --bg-hover: #262c36;
-    --text-primary: #f0f6fc;
-    --text-secondary: #8b949e;
-    --text-muted: #6e7681;
-    --accent-emerald: #10b981;
-    --accent-gold: #f59e0b;
-    --accent-blue: #3b82f6;
-    --positive: #22c55e;
+    --bg-primary: #0a0e1a;
+    --bg-secondary: #141824;
+    --bg-card: #1a1f2e;
+    --bg-hover: #222938;
+    --text-primary: #f0f4f8;
+    --text-secondary: #8b93a6;
+    --text-muted: #6a7185;
+    --accent-primary: #00d9ff;
+    --accent-secondary: #00ff88;
+    --accent-tertiary: #7c3aed;
+    --positive: #10b981;
     --negative: #ef4444;
-    --neutral: #eab308;
-    --border: rgba(240, 246, 252, 0.1);
-    --glow: 0 0 30px rgba(16, 185, 129, 0.4);
+    --neutral: #f59e0b;
+    --border: rgba(240, 244, 248, 0.08);
+    --glow: 0 0 30px rgba(0, 217, 255, 0.3);
 }
 
 body {
@@ -51,9 +51,9 @@ body {
     position: absolute;
     width: 150%;
     height: 150%;
-    background: radial-gradient(ellipse at 20% 20%, rgba(16, 185, 129, 0.12) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 80%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
-                radial-gradient(ellipse at 50% 50%, rgba(245, 158, 11, 0.06) 0%, transparent 50%);
+    background: radial-gradient(ellipse at 20% 20%, rgba(0, 217, 255, 0.1) 0%, transparent 50%),
+                radial-gradient(ellipse at 80% 80%, rgba(124, 58, 237, 0.08) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(0, 255, 136, 0.06) 0%, transparent 50%);
     animation: gradientMove 20s ease-in-out infinite;
 }
 
@@ -89,13 +89,13 @@ body {
 
 .logo-icon {
     font-size: 32px;
-    filter: drop-shadow(0 0 10px var(--accent-emerald));
+    filter: drop-shadow(0 0 10px var(--accent-primary));
 }
 
 .logo-text h1 {
     font-size: 24px;
     font-weight: 700;
-    background: linear-gradient(135deg, var(--accent-emerald), var(--accent-gold));
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -122,7 +122,7 @@ body {
 }
 
 .nav-link:hover, .nav-link.active {
-    color: var(--accent-emerald);
+    color: var(--accent-primary);
 }
 
 /* Hero */
@@ -138,7 +138,7 @@ body {
 }
 
 .gradient-text {
-    background: linear-gradient(135deg, var(--accent-emerald), var(--accent-gold), var(--accent-blue));
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary), var(--accent-tertiary));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -161,6 +161,7 @@ body {
     padding: 32px;
     max-width: 700px;
     margin: 0 auto;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
 .input-group {
@@ -189,7 +190,7 @@ body {
 
 .input-group input:focus {
     outline: none;
-    border-color: var(--accent-emerald);
+    border-color: var(--accent-primary);
     box-shadow: var(--glow);
 }
 
@@ -200,7 +201,7 @@ body {
 .analyze-btn {
     width: 100%;
     padding: 18px;
-    background: linear-gradient(135deg, var(--accent-emerald), var(--accent-blue));
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-tertiary));
     border: none;
     border-radius: 12px;
     font-size: 15px;
@@ -218,7 +219,7 @@ body {
 
 .analyze-btn:hover {
     transform: translateY(-2px);
-    box-shadow: 0 10px 30px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 10px 30px rgba(0, 217, 255, 0.4);
 }
 
 .analyze-btn:active {
@@ -266,8 +267,9 @@ body {
 
 .quick-btn:hover {
     background: var(--bg-hover);
-    border-color: var(--accent-emerald);
-    color: var(--accent-emerald);
+    border-color: var(--accent-primary);
+    color: var(--accent-primary);
+    box-shadow: 0 4px 12px rgba(0, 217, 255, 0.2);
 }
 
 /* Loading State */
@@ -297,12 +299,12 @@ body {
 }
 
 .loader-ring:nth-child(1) {
-    border-top-color: var(--accent-emerald);
+    border-top-color: var(--accent-primary);
     animation-delay: 0s;
 }
 
 .loader-ring:nth-child(2) {
-    border-right-color: var(--accent-gold);
+    border-right-color: var(--accent-secondary);
     animation-delay: 0.15s;
     width: 70%;
     height: 70%;
@@ -311,7 +313,7 @@ body {
 }
 
 .loader-ring:nth-child(3) {
-    border-bottom-color: var(--accent-blue);
+    border-bottom-color: var(--accent-tertiary);
     animation-delay: 0.3s;
     width: 40%;
     height: 40%;
@@ -345,6 +347,7 @@ body {
     padding: 32px;
     margin-bottom: 24px;
     text-align: center;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
 .rec-header {
@@ -362,7 +365,7 @@ body {
 }
 
 .company-badge {
-    background: linear-gradient(135deg, var(--accent-emerald), var(--accent-blue));
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-tertiary));
     padding: 6px 16px;
     border-radius: 20px;
     font-size: 12px;
@@ -397,7 +400,7 @@ body {
     height: 100%;
     border-radius: 4px;
     transition: width 1s ease-out;
-    background: linear-gradient(90deg, var(--accent-emerald), var(--accent-blue));
+    background: linear-gradient(90deg, var(--accent-primary), var(--accent-secondary));
 }
 
 .confidence-text {
@@ -419,12 +422,13 @@ body {
     border-radius: 16px;
     padding: 24px;
     text-align: center;
-    transition: transform 0.3s, border-color 0.3s;
+    transition: transform 0.3s, border-color 0.3s, box-shadow 0.3s;
 }
 
 .metric-card:hover {
     transform: translateY(-4px);
-    border-color: var(--accent-emerald);
+    border-color: var(--accent-primary);
+    box-shadow: 0 8px 24px rgba(0, 217, 255, 0.15);
 }
 
 .metric-icon {
@@ -441,7 +445,7 @@ body {
 .metric-card:nth-child(1) .metric-value { color: var(--positive); }
 .metric-card:nth-child(2) .metric-value { color: var(--neutral); }
 .metric-card:nth-child(3) .metric-value { color: var(--negative); }
-.metric-card:nth-child(4) .metric-value { color: var(--accent-blue); }
+.metric-card:nth-child(4) .metric-value { color: var(--accent-primary); }
 
 .metric-label {
     font-size: 12px;
@@ -457,6 +461,7 @@ body {
     border-radius: 20px;
     padding: 32px;
     margin-bottom: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
 .chart-card h3 {
@@ -497,9 +502,9 @@ body {
     transition: width 1s ease-out;
 }
 
-.positive-bar { background: linear-gradient(90deg, #00ff88, #00cc6a); }
-.neutral-bar { background: linear-gradient(90deg, #ffd700, #ffaa00); }
-.negative-bar { background: linear-gradient(90deg, #ff6b6b, #ff4444); }
+.positive-bar { background: linear-gradient(90deg, #10b981, #00ff88); }
+.neutral-bar { background: linear-gradient(90deg, #f59e0b, #fbbf24); }
+.negative-bar { background: linear-gradient(90deg, #ef4444, #ff6b6b); }
 
 .bar-value {
     width: 50px;
@@ -516,6 +521,7 @@ body {
     border-radius: 20px;
     overflow: hidden;
     margin-bottom: 24px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
 }
 
 .posts-header {
@@ -581,17 +587,17 @@ body {
 }
 
 .sentiment-badge.positive {
-    background: rgba(0, 255, 136, 0.15);
+    background: rgba(16, 185, 129, 0.15);
     color: var(--positive);
 }
 
 .sentiment-badge.neutral {
-    background: rgba(255, 215, 0, 0.15);
+    background: rgba(245, 158, 11, 0.15);
     color: var(--neutral);
 }
 
 .sentiment-badge.negative {
-    background: rgba(255, 107, 107, 0.15);
+    background: rgba(239, 68, 68, 0.15);
     color: var(--negative);
 }
 
@@ -641,12 +647,13 @@ body {
     border: 1px solid var(--border);
     border-radius: 16px;
     padding: 32px;
-    transition: transform 0.3s, border-color 0.3s;
+    transition: transform 0.3s, border-color 0.3s, box-shadow 0.3s;
 }
 
 .feature:hover {
     transform: translateY(-4px);
-    border-color: var(--accent-emerald);
+    border-color: var(--accent-primary);
+    box-shadow: 0 8px 24px rgba(0, 217, 255, 0.15);
 }
 
 .feature-icon {
@@ -690,18 +697,19 @@ body {
     border: 1px solid var(--border);
     border-radius: 16px;
     padding: 32px;
-    transition: transform 0.3s, border-color 0.3s;
+    transition: transform 0.3s, border-color 0.3s, box-shadow 0.3s;
 }
 
 .team-card:hover {
     transform: translateY(-4px);
-    border-color: var(--accent-gold);
+    border-color: var(--accent-secondary);
+    box-shadow: 0 8px 24px rgba(0, 255, 136, 0.15);
 }
 
 .team-avatar {
     width: 64px;
     height: 64px;
-    background: linear-gradient(135deg, var(--accent-emerald), var(--accent-blue));
+    background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -795,25 +803,25 @@ body {
 
 /* Selection */
 ::selection {
-    background: var(--accent-emerald);
+    background: var(--accent-primary);
     color: var(--bg-primary);
 }
 
 /* Reddit Link Styles */
 .reddit-link {
-    color: var(--accent-blue);
+    color: var(--accent-primary);
     text-decoration: none;
     font-weight: 500;
     padding: 4px 10px;
-    background: rgba(59, 130, 246, 0.15);
+    background: rgba(0, 217, 255, 0.15);
     border-radius: 6px;
     transition: all 0.2s;
     white-space: nowrap;
 }
 
 .reddit-link:hover {
-    background: rgba(59, 130, 246, 0.3);
-    color: #60a5fa;
+    background: rgba(0, 217, 255, 0.3);
+    color: #33e4ff;
 }
 
 .no-link {

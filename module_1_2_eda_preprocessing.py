@@ -6,7 +6,7 @@ Project: Reddit Sentiment Analysis for Company Monitoring
 Data Modality: Textual Data (Reddit Comments/Posts)
 Dataset: Reddit Sentiment Dataset (Kaggle) or Sample Data
 
-    Developed by:
+Developed by:
 - Tanush Mehra | 102318065 | 3R12
 - Saiyam Gupta | 102318060 | 3R11
 - Tashu Sonker | 102303914 | 3C64

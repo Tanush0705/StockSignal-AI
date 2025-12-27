@@ -1,6 +1,6 @@
 /**
- * StockSignal AI - JavaScript Application
- * Stock Sentiment Analyzer
+ * StockSignal AI - Core Application Logic
+ * Market Intelligence Platform
  */
 
 // DOM Elements
@@ -11,29 +11,29 @@ const loadingText = document.getElementById('loadingText');
 const resultsSection = document.getElementById('resultsSection');
 const quickButtons = document.querySelectorAll('.quick-btn');
 
-// Loading messages for realistic feel
+// Loading sequence messages
 const loadingMessages = [
-    'Connecting to Reddit API...',
-    'Fetching posts from r/wallstreetbets...',
-    'Fetching posts from r/stocks...',
-    'Analyzing sentiment patterns...',
-    'Processing natural language...',
-    'Calculating sentiment scores...',
-    'Generating investment insights...',
-    'Preparing your report...'
+    'Initializing analysis engine...',
+    'Scanning r/wallstreetbets discussions...',
+    'Monitoring r/stocks activity...',
+    'Processing sentiment indicators...',
+    'Running NLP algorithms...',
+    'Computing confidence scores...',
+    'Compiling market signals...',
+    'Finalizing intelligence report...'
 ];
 
-// Initialize
+// Application initialization
 document.addEventListener('DOMContentLoaded', () => {
-    // Analyze button click
+    // Primary analysis trigger
     analyzeBtn.addEventListener('click', handleAnalyze);
     
-    // Enter key press
+    // Keyboard shortcut
     companyInput.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') handleAnalyze();
     });
     
-    // Quick select buttons
+    // Quick access buttons
     quickButtons.forEach(btn => {
         btn.addEventListener('click', () => {
             companyInput.value = btn.dataset.company;
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
     
-    // Smooth scroll for nav links
+    // Navigation smooth scroll
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function(e) {
             e.preventDefault();
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Handle analyze action
+// Main analysis handler
 async function handleAnalyze() {
     const company = companyInput.value.trim();
     
@@ -62,7 +62,7 @@ async function handleAnalyze() {
         return;
     }
     
-    // Show loading state
+    // Activate loading sequence
     showLoading();
     
     try {
@@ -79,15 +79,15 @@ async function handleAnalyze() {
         if (response.ok) {
             displayResults(data);
         } else {
-            showError(data.error || 'Analysis failed');
+            showError(data.error || 'Analysis execution failed');
         }
     } catch (error) {
         console.error('Error:', error);
-        showError('Connection failed. Please try again.');
+        showError('System connection error. Please retry.');
     }
 }
 
-// Show loading state with animated messages
+// Activate loading animation
 function showLoading() {
     resultsSection.classList.add('hidden');
     loadingState.classList.remove('hidden');
@@ -101,54 +101,54 @@ function showLoading() {
         }
     }, 400);
     
-    // Store interval ID for cleanup
+    // Store interval reference
     loadingState.dataset.intervalId = messageInterval;
 }
 
-// Hide loading state
+// Deactivate loading state
 function hideLoading() {
     loadingState.classList.add('hidden');
     analyzeBtn.disabled = false;
     
-    // Clear message interval
+    // Clear message loop
     const intervalId = loadingState.dataset.intervalId;
     if (intervalId) {
         clearInterval(parseInt(intervalId));
     }
 }
 
-// Display results
+// Render analysis results
 function displayResults(data) {
     hideLoading();
     resultsSection.classList.remove('hidden');
     
-    // Scroll to results
+    // Scroll to results view
     setTimeout(() => {
         resultsSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }, 100);
     
-    // Update recommendation card
+    // Update market signal card
     document.getElementById('companyBadge').textContent = data.company;
     const recAction = document.getElementById('recAction');
     recAction.textContent = data.recommendation.action;
     recAction.style.color = data.recommendation.color;
     document.getElementById('recDescription').textContent = data.recommendation.description;
     
-    // Confidence bar animation
+    // Animate signal strength bar
     const confidenceFill = document.getElementById('confidenceFill');
     confidenceFill.style.width = '0%';
     setTimeout(() => {
         confidenceFill.style.width = data.recommendation.confidence + '%';
     }, 100);
-    document.getElementById('confidenceText').textContent = `Confidence: ${data.recommendation.confidence}%`;
+    document.getElementById('confidenceText').textContent = `Signal Strength: ${data.recommendation.confidence}%`;
     
-    // Update metrics with animation
+    // Animate metric values
     animateValue('positiveValue', 0, data.positive_pct, '%');
     animateValue('neutralValue', 0, data.neutral_pct, '%');
     animateValue('negativeValue', 0, data.negative_pct, '%');
     animateValue('avgSentiment', 0, data.avg_sentiment, '', 3);
     
-    // Update bars
+    // Update sentiment bars
     setTimeout(() => {
         document.getElementById('positiveBar').style.width = data.positive_pct + '%';
         document.getElementById('neutralBar').style.width = data.neutral_pct + '%';
@@ -159,16 +159,16 @@ function displayResults(data) {
     document.getElementById('neutBarValue').textContent = data.neutral_pct.toFixed(1) + '%';
     document.getElementById('negBarValue').textContent = data.negative_pct.toFixed(1) + '%';
     
-    // Update posts table
-    document.getElementById('postsCount').textContent = data.posts_analyzed + ' posts analyzed';
+    // Populate discussions table
+    document.getElementById('postsCount').textContent = data.posts_analyzed + ' discussions';
     const postsBody = document.getElementById('postsBody');
     postsBody.innerHTML = '';
     
     data.posts.forEach(post => {
         const row = document.createElement('tr');
         const linkHtml = post.url 
-            ? `<a href="${post.url}" target="_blank" class="reddit-link">View on Reddit 🔗</a>`
-            : '<span class="no-link">Sample Data</span>';
+            ? `<a href="${post.url}" target="_blank" class="reddit-link">View Thread 🔗</a>`
+            : '<span class="no-link">Demo Data</span>';
         row.innerHTML = `
             <td>${escapeHtml(post.title)}</td>
             <td>⬆️ ${post.score.toLocaleString()}</td>
@@ -179,16 +179,16 @@ function displayResults(data) {
         postsBody.appendChild(row);
     });
     
-    // Update data notice
+    // Update data source notice
     const noticeText = document.getElementById('noticeText');
     if (data.is_sample) {
-        noticeText.textContent = 'Using sample data (Reddit API rate limited on cloud servers)';
+        noticeText.textContent = 'Demo mode active (API throttled on deployment)';
     } else {
-        noticeText.textContent = `Live data from Reddit • Updated: ${data.timestamp}`;
+        noticeText.textContent = `Real-time social data • Last update: ${data.timestamp}`;
     }
 }
 
-// Animate numeric values
+// Numeric counter animation
 function animateValue(elementId, start, end, suffix = '', decimals = 1) {
     const element = document.getElementById(elementId);
     const duration = 1000;
@@ -197,7 +197,7 @@ function animateValue(elementId, start, end, suffix = '', decimals = 1) {
     function update(currentTime) {
         const elapsed = currentTime - startTime;
         const progress = Math.min(elapsed / duration, 1);
-        const easeProgress = 1 - Math.pow(1 - progress, 3); // Ease out cubic
+        const easeProgress = 1 - Math.pow(1 - progress, 3); // Cubic ease-out
         
         const current = start + (end - start) * easeProgress;
         element.textContent = current.toFixed(decimals) + suffix;
@@ -210,15 +210,15 @@ function animateValue(elementId, start, end, suffix = '', decimals = 1) {
     requestAnimationFrame(update);
 }
 
-// Show error message
+// Display error notification
 function showError(message) {
     hideLoading();
     
-    // Create error toast
+    // Create error notification
     const toast = document.createElement('div');
     toast.className = 'error-toast';
     toast.innerHTML = `
-        <span>❌</span>
+        <span>⚠️</span>
         <span>${message}</span>
     `;
     toast.style.cssText = `
@@ -226,7 +226,7 @@ function showError(message) {
         bottom: 20px;
         left: 50%;
         transform: translateX(-50%);
-        background: linear-gradient(135deg, #ff6b6b, #ff4444);
+        background: linear-gradient(135deg, #dc2626, #ef4444);
         color: white;
         padding: 16px 24px;
         border-radius: 12px;
@@ -234,24 +234,24 @@ function showError(message) {
         align-items: center;
         gap: 10px;
         font-weight: 500;
-        box-shadow: 0 10px 30px rgba(255, 107, 107, 0.3);
+        box-shadow: 0 10px 30px rgba(220, 38, 38, 0.3);
         z-index: 1000;
         animation: slideUp 0.3s ease-out;
     `;
     
     document.body.appendChild(toast);
     
-    // Remove after 3 seconds
+    // Auto-dismiss notification
     setTimeout(() => {
         toast.style.animation = 'slideDown 0.3s ease-out forwards';
         setTimeout(() => toast.remove(), 300);
     }, 3000);
 }
 
-// Shake input on empty submit
+// Input validation feedback
 function shakeInput() {
     companyInput.style.animation = 'shake 0.5s ease-out';
-    companyInput.style.borderColor = '#ff6b6b';
+    companyInput.style.borderColor = '#dc2626';
     
     setTimeout(() => {
         companyInput.style.animation = '';
@@ -259,14 +259,14 @@ function shakeInput() {
     }, 500);
 }
 
-// Escape HTML to prevent XSS
+// XSS protection helper
 function escapeHtml(text) {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
 }
 
-// Add shake animation dynamically
+// Dynamic style injection
 const style = document.createElement('style');
 style.textContent = `
     @keyframes shake {
